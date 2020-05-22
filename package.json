@@ -1,5 +1,5 @@
 {
-  "name": "js-caller",
+  "name": "@ssdcode/js-caller",
   "version": "1.0.0",
   "description": "Lightweight axios wrapper",
   "main": "./src/index.js",
@@ -14,6 +14,11 @@
   ],
   "author": "Sebastian Sulinski <info@ssdtutorials.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastiansulinski/js-caller.git"
+  },
+  "homepage": "https://github.com/sebastiansulinski/js-caller#readme",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
