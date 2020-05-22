@@ -1,6 +1,6 @@
 {
   "name": "@ssdcode/js-caller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight axios wrapper",
   "main": "./src/index.js",
   "scripts": {
