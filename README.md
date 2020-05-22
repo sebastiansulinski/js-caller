@@ -35,7 +35,7 @@ Caller.request(
 ```bash
 - endpoint: request destination
 - request method: get (default), post, put, patch, delete
-- payload: data you wish to send with the request
+- payload: data you wish to send with the request. If request method is in ['post', 'put', 'patch'] - payload will automaticaly be associated with 'data' index - otherwise 'params' will be used
 - config: axios specific configuration
 ```
 
